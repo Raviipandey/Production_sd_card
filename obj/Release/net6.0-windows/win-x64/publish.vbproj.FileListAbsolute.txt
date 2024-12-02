@@ -1,0 +1,4 @@
+C:\Users\ravit\OneDrive\Desktop\VB\MyVBWinFormsApp\obj\Release\net6.0-windows\win-x64\publish.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ravit\OneDrive\Desktop\VB\MyVBWinFormsApp\obj\Release\net6.0-windows\win-x64\publish.AssemblyInfoInputs.cache
+C:\Users\ravit\OneDrive\Desktop\VB\MyVBWinFormsApp\obj\Release\net6.0-windows\win-x64\publish.AssemblyInfo.vb
+C:\Users\ravit\OneDrive\Desktop\VB\MyVBWinFormsApp\obj\Release\net6.0-windows\win-x64\publish.vbproj.CoreCompileInputs.cache
